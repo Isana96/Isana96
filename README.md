@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Soy Isana, economista apasionada por el análisis de datos y su impacto en la toma de decisiones. Actualmente me encuentro inmerso en el fascinante mundo de las bases de datos, ¡explorando nuevas habilidades y ampliando horizontes! 📊💡 ¡estoy encantada de formar parte de la comunidad de GIFHUB y ansiosa por compartir mi pasión por los datos y la economía con todos ustedes! 📈✨
 <!--
 **Isana96/Isana96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

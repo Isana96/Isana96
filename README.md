@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Isana</h1>
-<h3 align="center">Apasionada por la economía y exploradora de Bases de Datos. Actualmente me encuentro inmersa en el fascinante mundo de las bases de datos, ¡explorando nuevas habilidades y ampliando horizontes! 📊💡 ¡estoy encantada de formar parte de la comunidad de GIFHUB y ansiosa por compartir mi pasión por los datos y la economía con todos ustedes! 📈✨</h3>
+<h3 align="center">Apasionada por la economía y exploradora de Bases de Datos. Actualmente me encuentro inmersa en el fascinante mundo de las bases de datos, ¡Explorando nuevas habilidades y ampliando horizontes! 📊💡 ¡Estoy encantada de formar parte de la comunidad de GIFHUB y ansiosa por compartir mi pasión por los datos y la economía con todos ustedes! 📈✨</h3>
 
 - 🔭 Estoy trabajando con **Bases de Datos, actualmente MySQL**
 
